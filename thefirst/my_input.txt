@@ -1,0 +1,13 @@
+#include < iostream >
+using namespace std ;
+int main ( ) { 
+
+float y = new float(25.25);
+int i = 5.5 ;
+int sum ; 
+while ( i < x ) {
+sum = sum + i ;
+i = i + 1 ;
+}
+cout << sum ; 
+}
